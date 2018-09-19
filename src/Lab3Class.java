@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Lab3Class {
     public static void main(String[] unused) {
         System.out.println("Ran");
-    }
+    }  
     /**
      * Retrieve contents from a URL and return them as a string.
      *
